@@ -17,6 +17,11 @@
 | listę wad | cons | div.review-feature\_\_col:has(\> div.review-feature\_\_title--negatives) \> div.review-feature\_\_item |
 | listę zalet | pros | div.review-feature\_\_col:has(\> div.review-feature\_\_title--positives) \> div.review-feature\_\_item |
 
-#wykorzystywane bibiloteki
+## Wykorzystywane bibiloteki
 - BeautyfulSoup4
 - Requests
+- Json
+- Os
+- Pandas
+- Numpy
+- Matplotlib

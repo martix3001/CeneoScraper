@@ -30,7 +30,7 @@ selectors = {
         "pros": ["div.review-feature__title--positives ~ div.review-feature__item",None,True],
     }
 
-product_code = "62290435" #input("Podaj kod produktu: 96693065 """)
+product_code = "62290434" #input("Podaj kod produktu: 96693065 """)
 url = f"https://www.ceneo.pl/{product_code}#tab=reviews"
 print(product_code)
 all_opinions = []
